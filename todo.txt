@@ -1,0 +1,20 @@
+- profile özellikleri
+  - konum seçimi (şehir, ilçe, mahalle olabilir) bunu bir map ile yapabiliriz. daha sonra bu konumları kullanıcıların birbirini
+arama yaparken kullanabiliriz.
+
+-  mesajlaşma sayfasında resim gönderme ve görüntüleme, sesli mesaj gönderme ve dinleme 
+
+- kayıtta 18 yaş sınırı olabilir.
+
+- eşleşme bilfirim. database tutalım durumu. 
+
+- Mesajlar kısmında eğer bir kullanıcının profilini gidip bastıktan sonra onu incelerken başka bir kullanıcıyı sol tarafta basıp mesaj göndermek istersen Burada yine kullanıcının profili açılıyor. Yani inceleme sayfası açılıyor, inceleme kısmı açılıyor. Öyle olmasın mesaja basınca başka kullanıcının normal mesaj gönderme olayı gelsin ekrana 
+
+- eşleşmerimdeli bildirim sıkıntısı duruyor hala. eşleşme incelenince yani profili acılınca tıklanıp bunu yok etsın eger baska yoksa ...
+
+- mesaj kısmında mesaj atınca uzun ıse assagı ınsın. katakter sınırı olabilir.
+
+- 
+
+
+

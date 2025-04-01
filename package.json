@@ -1,0 +1,31 @@
+{
+  "name": "tinder-clone",
+  "version": "1.0.0",
+  "description": "Modern Tinder Klonu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "client": "cd client && npm start",
+    "dev:full": "concurrently \"npm run dev\" \"npm run client\""
+  },
+  "dependencies": {
+    "@emoji-mart/data": "^1.2.1",
+    "@emoji-mart/react": "^1.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mapbox-gl": "^3.11.0",
+    "mongoose": "^7.5.0",
+    "react-map-gl": "^8.0.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "@types/mapbox-gl": "^3.4.1",
+    "@types/react-map-gl": "^6.1.7",
+    "concurrently": "^8.2.1",
+    "nodemon": "^3.0.1"
+  }
+}
